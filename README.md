@@ -11,7 +11,7 @@ This code gets data from a .json file containing text data and perform the class
 
 ## Strategy
 
-* Train a Random Forest (RF) algorithm using sickitlern
+* Train a Random Forest (RF) algorithm using sklearn
 * Build a RNN LSTM architecture with word embeddings using TensorFlow
 * Discuss metrics and improvements on the dataset
 
